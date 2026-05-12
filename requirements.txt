@@ -1,4 +1,5 @@
 aiogram
+aiogram-i18n[runtime]
 python-decouple
 redis
 sqlalchemy
